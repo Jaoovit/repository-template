@@ -1,3 +1,3 @@
 # repository-template
 
-run "npm install"
+run "npm install", "npm run build" and "npx webpack watch".
